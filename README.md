@@ -41,8 +41,8 @@
 
 <!-- Connect -->
 ## 🌐 Connect With Me
-[Manasvi  Dhawale[LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Manasvi Dhawale-linkedin/)
-[manasvidhawale65@gmail.com[Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:manasvidhawale65@gmail.com)
+[Manasvi  Dhawale[LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)]
+[[Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:manasvidhawale65@gmail.com)
 
 ---
 
